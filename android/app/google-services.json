@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329623150692",
+    "project_id": "rayen-mobile",
+    "storage_bucket": "rayen-mobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329623150692:android:672858de7bcb45999dff71",
+        "android_client_info": {
+          "package_name": "com.nerminefarhat.rayen_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-0zvUEEadRdQLapgz7J4ehwaXuWsojxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

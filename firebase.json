@@ -1,0 +1,29 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "rayen-mobile",
+          "appId": "1:329623150692:android:672858de7bcb45999dff71",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "rayen-mobile",
+          "configurations": {
+            "android": "1:329623150692:android:672858de7bcb45999dff71",
+            "ios": "1:329623150692:ios:e9c38432214ac1929dff71"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "functions": {
+    "source": "functions"
+  }
+}
